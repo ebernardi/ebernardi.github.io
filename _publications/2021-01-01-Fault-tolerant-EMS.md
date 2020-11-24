@@ -14,4 +14,4 @@ Keywords: Fault tolerant control; Fault estimation; Moving horizon estimation; M
 
 DOI: <a href="https://doi.org/10.1016/j.ijepes.2020.106342">10.1016/j.ijepes.2020.106342</a>
 
-Recommended citation: Emanuel Bernardi, Marcelo Menezes Morato, Paulo R. C. Mendes, Julio Elías Normey-Rico, and Eduardo J. Adam. "Fault-Tolerant Energy Management for an Industrial Microgrid: A Compact Optimization Method". In: <i>International Journal of Electrical Power and Energy Systems</i> 124 (2021), pp. 106342. ISSN: 0142-0615. DOI:10.1016/j.ijepes.2020.106342.
+Recommended citation: Emanuel Bernardi, Marcelo Menezes Morato, Paulo R. C. Mendes, Julio Elías Normey-Rico, and Eduardo J. Adam. "Fault-Tolerant Energy Management for an Industrial Microgrid: A Compact Optimization Method". In: <i>International Journal of Electrical Power and Energy Systems</i> 124 (2021), pp. 106342. ISSN: 0142-0615. DOI: 10.1016/j.ijepes.2020.106342.
