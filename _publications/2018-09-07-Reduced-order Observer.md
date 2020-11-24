@@ -4,7 +4,6 @@ collection: publications
 venue: '2018 Argentine Conference on Automatic Control - AADECA'
 authors: <b>Emanuel Bernardi</b>, Eduardo J. Adam
 date: November 2018
-volume: 124
 isbn: 978-987-46859-0-2
 doi: <a href="https://doi.org/10.23919/AADECA.2018.8577337">10.23919/AADECA.2018.8577337</a>
 ---
