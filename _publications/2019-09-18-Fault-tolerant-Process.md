@@ -9,7 +9,7 @@ doi: <a href="https://doi.org/10.1109/RPIC.2019.8882143">10.1109/RPIC.2019.88821
 ---
 Abstract: This paper presents a strategy to address the income of actuators faults using a model-based predictive controller scheme, which allows to track a reference even in the presence of actuator faults. The proposed fault-tolerant control system adopts a model predictive control technique to design a reconfigurable fault-tolerant controller and a reduce-order observer to achieve the fault detection and diagnosis function. Simulation results, based on two typical chemical industries processes, are given to illustrate the use and performance of such approach.
 
-Keywords: Reduce-order observer, Fault detection and diagnosis, Discrete time systems, Fault-tolerant control
+Keywords: Reduce-order observer, Fault detection and diagnosis, Discrete time systems, Fault-tolerant control.
 
 DOI: <a href="https://doi.org/10.1109/RPIC.2019.8882143">10.1109/RPIC.2019.8882143</a>
 
