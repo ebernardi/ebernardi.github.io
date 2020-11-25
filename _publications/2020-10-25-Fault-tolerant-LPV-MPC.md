@@ -3,7 +3,7 @@ title: "Nonlinear Fault-tolerant Model Predictive Control Strategy for Industria
 collection: publications
 venue: '2020 Argentine Conference on Automatic Control - AADECA'
 authors: <b>Emanuel Bernardi</b>, Eduardo J. Adam
-date: October 2018
+date: October 2020
 isbn: 978-987-46859-2-6
 # doi: <a href="https://doi.org/10.23919/AADECA.2018.8577337">10.23919/AADECA.2018.8577337</a>
 ---
