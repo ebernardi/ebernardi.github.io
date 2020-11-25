@@ -14,4 +14,3 @@ Keywords: Non-linear process; Linear parameter varying; Observer; Model predicti
 [//]: # (DOI: <a href="https://doi.org/10.23919/AADECA.2018.8577337">10.23919/AADECA.2018.8577337</a>)
 
 Recommended citation: Emanuel Bernardi and Eduardo J. Adam. "Nonlinear Fault-tolerant Model Predictive Control Strategy for Industrial Processes". In: <i>2020 Argentine Conference on Automatic Control - AADECA</i> October 2020, pp. 217-222. ISBN: 978-987-46859-2-6.
-[//]: # (DOI: 10.23919/AADECA.2018.8577337.)
