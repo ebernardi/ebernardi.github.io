@@ -1,10 +1,10 @@
 ---
-title: "Associate Professor (Signals and Systems)"
+title: "Associate Professor (Signals and Systems) - 12/2019-Today"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Associate-ANSYS
 venue: "National Technological University (UTN), Electronic Engineering Department"
-date: 12/2019-Today
+date: 2019-12-01
 location: "San Francisco, Argentina"
 ---
 
