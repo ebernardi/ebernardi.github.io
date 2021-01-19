@@ -3,8 +3,8 @@ title: "Adjunct Professor (Signals and Systems)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Adjunct-ANSYS
-venue: "National Technological University (UTN), Electronic Engineering Department (2015-2019)"
-date: .
+venue: "National Technological University (UTN), Electronic Engineering Department"
+date: "10/2015-11/2019".
 location: "San Francisco, Argentina"
 ---
 
