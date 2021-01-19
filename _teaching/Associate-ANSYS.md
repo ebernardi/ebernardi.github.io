@@ -1,5 +1,5 @@
 ---
-title: "Associate Professor (Signals and Systems) - 12/2019-Today"
+title: "Associate Professor (Signals and Systems)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Associate-ANSYS
@@ -7,6 +7,8 @@ venue: "National Technological University (UTN), Electronic Engineering Departme
 date: 2019-12-01
 location: "San Francisco, Argentina"
 ---
+
+12/2019-Today
 
 This course aims to give all students a common background in complex numbers, as well as, an introduction to analog and digital signal analysis, topics that forms an integral part of electronic engineering systems in many diverse areas, including communications, consumer electronics, and control systems.
 

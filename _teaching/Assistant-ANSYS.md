@@ -3,10 +3,12 @@ title: "Assistant Professor (Signals and Systems)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Assistant-ANSYS
-venue: "National Technological University (UTN), Electronic Engineering Department (04/2015-09/2015)"
+venue: "National Technological University (UTN), Electronic Engineering Department"
 date: 2015-04-01
 location: "San Francisco, Argentina"
 ---
+
+(04/2015-09/2015)
 
 This course aims to give all students a common background in complex numbers, as well as, an introduction to analog and digital signal analysis, topics that forms an integral part of electronic engineering systems in many diverse areas, including communications, consumer electronics, and control systems.
 

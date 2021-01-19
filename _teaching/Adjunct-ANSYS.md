@@ -1,5 +1,5 @@
 ---
-title: "Adjunct Professor (Signals and Systems) 10/2015-11/2019"
+title: "Adjunct Professor (Signals and Systems)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Adjunct-ANSYS
@@ -7,6 +7,8 @@ venue: "National Technological University (UTN), Electronic Engineering Departme
 date: 2015-10-01
 location: "San Francisco, Argentina"
 ---
+
+(10/2015-11/2019)
 
 This course aims to give all students a common background in complex numbers, as well as, an introduction to analog and digital signal analysis, topics that forms an integral part of electronic engineering systems in many diverse areas, including communications, consumer electronics, and control systems.
 
