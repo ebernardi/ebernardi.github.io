@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Chemical Technology, National University of Littoral, Chemical Engineering Faculty, Argentina. 2021 (expected)
+* M.Sc. in Automatic Control Engineering, National Technology University, Paraná Regional Faculty, Argentina, 2020
+* Electronics Engineer, National Technology University, San Francisco Regional Faculty, Argentina, 2012
+* Electronics Technician, National Technology University, San Francisco Regional Faculty, Argentina, 2010
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Services
 ======
-* Currently signed in to 43 different slack teams
+* Ad-hoc Reviewer, ISA Transactions: The Journal of Automation. ISSN:0019-0578, Elsevier
+* Ad-hoc Reviewer, 27th Argentine Conference on Automatic Control, 2020 (AADECA 2020), Argentine Association of Automatic Control
+* Ad-hoc Reviewer, 21st IFAC World Congress, 2020 (IFAC 2020), International Federation of Automatic Control
+* Ad-hoc Reviewer, IEEE International Conference on Industrial Technology (ICIT 2020), Institute of Electrical and Electronics Engineers
+* Member of the “Preparatory Committee for UNISEC-Argentina” (PCoUA), Argentina
+
+Work experience
+======
+* 01/2013–02/2016 Technical Support Engineer, Cablevisión SA
+  * Diagnostic and troubleshooting software and hardware problems and customer help. Solving network issues, configuring systems and providing immediate support
+* 03/2004–02/2009 Automation Assembly Technician, Maquinarias San Francisco SRL
+  * Design, assembly and commissioning of automation and industrial control systems
+* 12/2003–02/2004 Assembly Operator, Gatti Ventilación SA
+  * Final assembly on production line
