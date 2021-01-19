@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Adjunct-ANSYS
 venue: "National Technological University (UTN), Electronic Engineering Department (10/2015-11/2019)"
-date: 2015
+date: 2015-10-01
 location: "San Francisco, Argentina"
 ---
 

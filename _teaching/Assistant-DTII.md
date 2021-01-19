@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Assistant-DTII
 venue: "National Technological University (UTN), Electronic Engineering Department (03/2011-12/2015)"
-date: 2011
+date: 2011-03-01
 location: "San Francisco, Argentina"
 ---
 
